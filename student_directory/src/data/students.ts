@@ -1,0 +1,32 @@
+export const students = [
+  {
+    id: 1,
+    name: "Aarav Mehta",
+    email: "aarav@example.com",
+    department: "Computer Science",
+    about: "Interested in web development.",
+    degree: "B.Tech",
+    semester: 3,
+    cgpa: 8.9,
+  },
+  {
+    id: 2,
+    name: "Riya Shah",
+    email: "riya@example.com",
+    department: "Information Technology",
+    about: "Enjoys programming and problem-solving.",
+    degree: "B.Tech",
+    semester: 3,
+    cgpa: 9.1,
+  },
+  {
+    id: 3,
+    name: "Dev Mehta",
+    email: "dev@example.com",
+    department: "Computer Science",
+    about: "Interested in software engineering.",
+    degree: "B.Tech",
+    semester: 3,
+    cgpa: 8.5,
+  },
+];
